@@ -124,7 +124,7 @@
 							<div class="card-body">
 								<p class="fs-5 myP-color">Most Advance Healthcare Technology</p>
 								<p>E-Hospitals has been the pioneer in bringing
-									ground-breaking health care technologies to Bangladesh.</p>
+									ground-breaking health care technologies to India.</p>
 							</div>
 						</div>
 					</div>
